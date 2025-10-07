@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI';
     background-color:rgb(255, 240, 226);
     color: rgb(208, 8, 71);
     line-height: 1.6;
@@ -99,3 +99,4 @@ footer {
     border-radius: 0px;
     margin-top: 20px;
 }
+
