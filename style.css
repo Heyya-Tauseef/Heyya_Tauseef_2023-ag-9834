@@ -1,13 +1,9 @@
-/* style.css */
-
-/* General Reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body Styling */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color:rgb(255, 240, 226);
@@ -16,7 +12,6 @@ body {
     padding: 0px;
 }
 
-/* Header */
 header {
     background-color: rgb(252, 179, 191);
     color: rgb(130, 11, 130);
@@ -26,7 +21,6 @@ header {
     margin-bottom: 20px;
 }
 
-/* Navigation Menu */
 nav ul {
     list-style: none;
     display: flex;
@@ -50,7 +44,6 @@ nav a:hover {
     background-color: rgb(252, 179, 191);
 }
 
-/* Section Styling */
 section {
     background-color: #fffaf5;
     padding: 20px;
@@ -69,7 +62,6 @@ p {
     margin-bottom: 15px;
 }
 
-/* Form Styles */
 form {
     margin-top: 15px;
 }
@@ -98,7 +90,6 @@ button:hover {
     background-color: rgb(252, 179, 191);
 }
 
-/* Footer */
 footer {
     text-align: center;
     padding: 20px;
@@ -107,3 +98,4 @@ footer {
     border-radius: 0px;
     margin-top: 20px;
 }
+
